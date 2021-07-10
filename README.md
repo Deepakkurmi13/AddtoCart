@@ -7,5 +7,5 @@
 <p>3.then type in project location>npm start</p>
 <p>4.link application is Live -https://mernpro1.herokuapp.com/</p>
 
-<image src="/images/data.png" alt="Loading...">
+<image src="C:/Users/INDIA/Pictures/Screenshots/Screenshot%20(2).png">
 
