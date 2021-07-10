@@ -9,3 +9,5 @@
 <p>2.then open cmd on project location.</p>
 <p>3.then type in project location>npm start</p>
 <p>4.link application is Live -https://mernpro1.herokuapp.com/</p>
+
+![Screenshot (2)](https://user-images.githubusercontent.com/77047596/125162383-21ed8600-e1a5-11eb-9b07-d99ea9de48ad.png)
